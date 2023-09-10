@@ -1,2 +1,6 @@
+Exercise 1 (Types) : Your First Program
+이 파일은 파이썬 프로그래밍 Exercise 1 과제(수행코드 및 수행결과) 내용입니다.
+제출자는 23학번 석사과정 전하란(2023135097) 입니다.
+
 print("Hello, world!")
 print("Hello, world!") # Print the traditional hello world
